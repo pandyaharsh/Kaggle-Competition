@@ -16,3 +16,4 @@ Given Task: We have been given with data that consists of all the information th
 
 Goal: Our goal is to create a model using machine learning algorithm that can predict the fututre selling price of that house.
 
+Please go through description.txt file in the data folder. It is very useful
