@@ -7,7 +7,12 @@ Given Task:
 
 With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home."
 
-We have been given with data that consists of all the information that covers various aspects of a house.
+
+
+![kaggle](https://user-images.githubusercontent.com/50141254/101546155-fd5ed080-396d-11eb-9958-34508811f1b4.png)
+
+
+Given Task: We have been given with data that consists of all the information that covers various aspects of a house.
 
 Goal: Our goal is to create a model using machine learning algorithm that can predict the fututre selling price of that house.
 
