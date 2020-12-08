@@ -1,1 +1,1 @@
-# Kaggle-Competition
+# Kaggle Competition- House Prices: Advanced Regression Techniques
